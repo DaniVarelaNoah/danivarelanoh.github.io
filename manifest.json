@@ -2,7 +2,8 @@
   "name": "Mi diario de lectura",
   "short_name": "Diario",
   "description": "Tu espacio personal para registrar y reseñar tus lecturas",
-  "start_url": "/index.html",
+  "scope": "/registro-lecturas/"
+  "start_url": "/registro-lecturas/index.html",
   "display": "standalone",
   "background_color": "#FAF3E0",
   "theme_color": "#C9A94D",
