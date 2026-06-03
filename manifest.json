@@ -1,0 +1,25 @@
+{
+  "name": "Mi diario de lectura",
+  "short_name": "Diario",
+  "description": "Tu espacio personal para registrar y reseñar tus lecturas",
+  "scope": "/",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FAF3E0",
+  "theme_color": "#C9A94D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
