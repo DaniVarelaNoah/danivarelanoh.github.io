@@ -1,7 +1,10 @@
 const CACHE_NAME = 'diario-lectura-v1';
 const ASSETS = [
-  '/index.html',
-  '/manifest.json'
+  '/registro-lecturas/',
+  '/registro-lecturas/index.html',
+  '/registro-lecturas/manifest.json',
+  '/registro-lecturas/icon-192.png',
+  '/registro-lecturas/icon-512.png'
 ];
 
 self.addEventListener('install', e => {
